@@ -19,10 +19,10 @@ int main() {
 	//计算
 	float BMI = w / pow(h, 2); //pow(a, b)运算a的b次方
 	cout << "Your BMI is:" << BMI << endl;
-	if (18.5 <= BMI <= 23.9) {
+	if (18.5f <= BMI <= 23.9f) {
 		cout << "Healthy" << endl;
 	}
-	else if (BMI < 18.5) {
+	else if (BMI < 18.5f) {
 		cout << "Too thin" << endl;
 	}
 	else {
