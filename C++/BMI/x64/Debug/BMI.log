@@ -1,0 +1,4 @@
+﻿  Main.cpp
+F:\Projects\C++\BMI\SourceFIles\Main.cpp(20,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\Projects\C++\BMI\SourceFIles\Main.cpp(22,11): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+  BMI.vcxproj -> F:\Projects\C++\BMI\x64\Debug\BMI.exe
