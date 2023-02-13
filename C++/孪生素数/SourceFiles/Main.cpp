@@ -19,19 +19,19 @@ bool prime_result(int a) {
 //主程序
 int main() {
 	//提示语
-	cout << "本程序用于计算某一区间内的孪生素数对" << endl;
+	cout << "This program is used for enumerating twin primes in an interval." << endl;
 	Sleep(2000); //暂停2000毫秒(2秒)
 	
 	//接收输入
 	int a = 0;
-	cout << "请输入下限:";
+	cout << "Down to:";
 	cin >> a;
 	int b = 0;
-	cout << "请输入上限:";
+	cout << "Up to:";
 	cin >> b;
 
 	//计算
-	cout << "该区间的孪生素数对有:" << endl;
+	cout << "The twin primes in the interval:" << endl;
 	for (int i = a; i <= b; i++) { //循环枚举
 		for (int j = a; j <= b; j++) {
 			if (prime_result(i) and prime_result(j) and j - i == 2) { //孪生素数的条件
@@ -41,7 +41,7 @@ int main() {
 	}
 
 	//结束语
-	cout << "计算结束!" << endl;
+	cout << "Done." << endl;
 	system("pause"); //运行完毕时会提示“按任意键继续”
 	return 0;
 }

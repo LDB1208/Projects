@@ -1,0 +1,2 @@
+F:\CodeProjects\C++\孪生素数\x64\Debug\孪生素数.exe
+F:\Projects\C++\孪生素数\x64\Debug\孪生素数.exe
