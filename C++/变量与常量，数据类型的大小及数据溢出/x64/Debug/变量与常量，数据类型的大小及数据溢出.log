@@ -1,0 +1,4 @@
+﻿  Main.cpp
+F:\Projects\C++\语法\变量与常量，数据类型的大小及数据溢出\SourceFiles\Main.cpp(39,27): warning C4307: “-”: 有符号整型常量溢出
+F:\Projects\C++\语法\变量与常量，数据类型的大小及数据溢出\SourceFiles\Main.cpp(40,15): warning C4309: “初始化”: 截断常量值
+  变量与常量，数据类型的大小及数据溢出.vcxproj -> F:\Projects\C++\语法\变量与常量，数据类型的大小及数据溢出\x64\Debug\变量与常量，数据类型的大小及数据溢出.exe
