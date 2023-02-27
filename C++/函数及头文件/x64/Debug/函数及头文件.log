@@ -1,5 +1,0 @@
-﻿  Function.cpp
-  Main.cpp
-F:\Projects\C++\语法\函数及头文件\SourceFiles\HeadFile.h(1,1): warning C4828: 文件包含在偏移 0x41 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
-  正在生成代码...
-  函数及头文件.vcxproj -> F:\Projects\C++\语法\函数及头文件\x64\Debug\函数及头文件.exe
